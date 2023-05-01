@@ -6,8 +6,7 @@ It's a one way social app which basically means it is a stripped down version of
 
 Here is the link to view the project
 
-https://clonebuild-1.web.app/ - LinkedIn-Clone
-
+https://clonebuild-1.web.app/
 
 ## Getting Started Locally
 
