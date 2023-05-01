@@ -1,0 +1,62 @@
+.login {
+    display: grid;
+    place-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 100px;
+}
+
+.login > img {
+    object-fit: contain;
+    height: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.login > form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login > form > input {
+    width: 365px;
+    height: 50px;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.login > form > button {
+    width: 365px;
+    height: 50px;
+    place-items: center;
+    font-size: large;
+    color: #fff;
+    background-color: #0074b1;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.login > p {
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+input::placeholder {
+    font-size: 12px;
+}
+input::target-text{
+    font-size: 12px;
+}
+
+.login > h4 {
+    margin-top: 14px;
+    font-size: 12px;
+}
+
+.login_register {
+    color: #0074b1;
+    cursor: pointer;
+}
